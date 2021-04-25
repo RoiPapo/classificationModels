@@ -51,10 +51,10 @@ class KnnClassifier:
         # return np.random.randint(low=0, high=2, size=len(X), dtype=np.uint8)
 
 
-def main():
+def main(): 
 
     print("*" * 20)
-    print("Started HW1_ID1_ID2.py")
+    print("Started HW1_206230021_316327451.py")
     # Parsing script arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('csv', type=str, help='Input csv file path')
